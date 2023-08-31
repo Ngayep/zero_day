@@ -1,1 +1,4 @@
-linux
+# command uname print in vm
+
+Linux
+
